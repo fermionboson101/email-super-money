@@ -1,0 +1,24 @@
+.info {
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+
+.bottom-container{
+    display: flex;
+}
+
+.desc-container{
+    overflow: hidden;
+    -webkit-line-clamp: 1;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    margin: 20px 0;
+}
+
+.fav {
+    margin-left: 50px;
+    color: #e54065;
+}

@@ -1,0 +1,17 @@
+.image {
+    position: relative;
+    background-color: #e54065;
+    min-width: 50px;
+    min-height: 50px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+.image-text {
+    padding: 15px;
+    font-size: large;
+    font-weight:bold;
+    color: white;
+}

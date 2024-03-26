@@ -1,0 +1,9 @@
+.item-container {
+    width: auto;
+    min-height: 150px;
+    border: 1px gray solid;
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+    cursor: pointer;
+}

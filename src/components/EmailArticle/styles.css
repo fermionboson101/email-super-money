@@ -1,0 +1,43 @@
+.selected-email-container {
+    flex: 1 1 0px;
+    display: flex;
+    border: 1px solid gray;
+    margin: 10px;
+    border-radius: 5px;
+    height: fit-content;
+    flex-direction: column;
+}
+
+.selected-email-Info {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0;
+    font-size: large;
+    font-weight: bold;
+}
+
+.top-conatiner {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.email-body {
+    margin: 10px;
+    padding: 5px;
+}
+
+.selected-email-header {
+    display: flex;
+    padding: 5px;
+    margin: 10px;
+}
+
+.fav-btn {
+    background-color: #e54065;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 10px;
+    border: 0px;
+}

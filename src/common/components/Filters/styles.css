@@ -1,0 +1,20 @@
+.filter-container {
+    display: flex;
+    padding: 3px;
+    margin: 2px;
+}
+
+.filter-item {
+    display: inline;
+    margin: 10px;
+    background-color: ghostwhite;
+    border-radius: 20px;
+    padding: 2px 7px;
+    cursor: pointer;
+}
+
+.selected-filter {
+    background-color: gainsboro;
+    border-radius: 20px;
+    padding: 2px 7px;
+}
